@@ -1,0 +1,25 @@
+body{
+	background-image: url(../imgs/fundo1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.box{
+	border: 3.5px solid cyan; 
+	width: 380px;
+	height: 290px;
+	margin: 150px auto;
+	text-align: center;
+}
+.box p{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 22px;
+	color: #ffffff;
+	font-family: sans-serif;
+}
+.lbs{
+	font-size: 18px;
+	color: white;
+	font-family: sans-serif;
+}
